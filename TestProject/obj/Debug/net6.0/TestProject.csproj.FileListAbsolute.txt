@@ -1,0 +1,17 @@
+C:\SP\TestFramework\TestProject\bin\Debug\net6.0\TestProject.deps.json
+C:\SP\TestFramework\TestProject\bin\Debug\net6.0\TestProject.dll
+C:\SP\TestFramework\TestProject\bin\Debug\net6.0\TestProject.pdb
+C:\SP\TestFramework\TestProject\bin\Debug\net6.0\TestedProject.dll
+C:\SP\TestFramework\TestProject\bin\Debug\net6.0\TestLibrary.dll
+C:\SP\TestFramework\TestProject\bin\Debug\net6.0\TestLibrary.pdb
+C:\SP\TestFramework\TestProject\bin\Debug\net6.0\TestedProject.pdb
+C:\SP\TestFramework\TestProject\obj\Debug\net6.0\TestProject.csproj.AssemblyReference.cache
+C:\SP\TestFramework\TestProject\obj\Debug\net6.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\SP\TestFramework\TestProject\obj\Debug\net6.0\TestProject.AssemblyInfoInputs.cache
+C:\SP\TestFramework\TestProject\obj\Debug\net6.0\TestProject.AssemblyInfo.cs
+C:\SP\TestFramework\TestProject\obj\Debug\net6.0\TestProject.csproj.CoreCompileInputs.cache
+C:\SP\TestFramework\TestProject\obj\Debug\net6.0\TestProj.121896E9.Up2Date
+C:\SP\TestFramework\TestProject\obj\Debug\net6.0\TestProject.dll
+C:\SP\TestFramework\TestProject\obj\Debug\net6.0\refint\TestProject.dll
+C:\SP\TestFramework\TestProject\obj\Debug\net6.0\TestProject.pdb
+C:\SP\TestFramework\TestProject\obj\Debug\net6.0\ref\TestProject.dll

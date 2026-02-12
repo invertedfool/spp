@@ -1,0 +1,11 @@
+C:\SP\TestFramework\TestedProject\bin\Debug\net6.0\TestedProject.deps.json
+C:\SP\TestFramework\TestedProject\bin\Debug\net6.0\TestedProject.dll
+C:\SP\TestFramework\TestedProject\bin\Debug\net6.0\TestedProject.pdb
+C:\SP\TestFramework\TestedProject\obj\Debug\net6.0\TestedProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\SP\TestFramework\TestedProject\obj\Debug\net6.0\TestedProject.AssemblyInfoInputs.cache
+C:\SP\TestFramework\TestedProject\obj\Debug\net6.0\TestedProject.AssemblyInfo.cs
+C:\SP\TestFramework\TestedProject\obj\Debug\net6.0\TestedProject.csproj.CoreCompileInputs.cache
+C:\SP\TestFramework\TestedProject\obj\Debug\net6.0\TestedProject.dll
+C:\SP\TestFramework\TestedProject\obj\Debug\net6.0\refint\TestedProject.dll
+C:\SP\TestFramework\TestedProject\obj\Debug\net6.0\TestedProject.pdb
+C:\SP\TestFramework\TestedProject\obj\Debug\net6.0\ref\TestedProject.dll

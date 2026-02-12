@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SP\\TestFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4444444-4444-4444-4444-444444444444}|TestRunner\\TestRunner.csproj|c:\\sp\\testframework\\testrunner\\runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4444444-4444-4444-4444-444444444444}|TestRunner\\TestRunner.csproj|solutionrelative:testrunner\\runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4444444-4444-4444-4444-444444444444}|TestRunner\\TestRunner.csproj|c:\\sp\\testframework\\testrunner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4444444-4444-4444-4444-444444444444}|TestRunner\\TestRunner.csproj|solutionrelative:testrunner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3333333-3333-3333-3333-333333333333}|TestProject\\TestProject.csproj|c:\\sp\\testframework\\testproject\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3333333-3333-3333-3333-333333333333}|TestProject\\TestProject.csproj|solutionrelative:testproject\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3333333-3333-3333-3333-333333333333}|TestProject\\TestProject.csproj|c:\\sp\\testframework\\testproject\\usertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3333333-3333-3333-3333-333333333333}|TestProject\\TestProject.csproj|solutionrelative:testproject\\usertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1111111-1111-1111-1111-111111111111}|TestLibrary\\TestLibrary.csproj|c:\\sp\\testframework\\testlibrary\\attributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1111111-1111-1111-1111-111111111111}|TestLibrary\\TestLibrary.csproj|solutionrelative:testlibrary\\attributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1111111-1111-1111-1111-111111111111}|TestLibrary\\TestLibrary.csproj|c:\\sp\\testframework\\testlibrary\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1111111-1111-1111-1111-111111111111}|TestLibrary\\TestLibrary.csproj|solutionrelative:testlibrary\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2222222-2222-2222-2222-222222222222}|TestedProject\\TestedProject.csproj|c:\\sp\\testframework\\testedproject\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2222222-2222-2222-2222-222222222222}|TestedProject\\TestedProject.csproj|solutionrelative:testedproject\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2222222-2222-2222-2222-222222222222}|TestedProject\\TestedProject.csproj|c:\\sp\\testframework\\testedproject\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2222222-2222-2222-2222-222222222222}|TestedProject\\TestedProject.csproj|solutionrelative:testedproject\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1111111-1111-1111-1111-111111111111}|TestLibrary\\TestLibrary.csproj|c:\\sp\\testframework\\testlibrary\\assert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1111111-1111-1111-1111-111111111111}|TestLibrary\\TestLibrary.csproj|solutionrelative:testlibrary\\assert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "C:\\SP\\TestFramework\\TestProject\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "TestProject\\CalculatorTests.cs",
+              "ToolTip": "C:\\SP\\TestFramework\\TestProject\\CalculatorTests.cs",
+              "RelativeToolTip": "TestProject\\CalculatorTests.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:05:08.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserTests.cs",
+              "DocumentMoniker": "C:\\SP\\TestFramework\\TestProject\\UserTests.cs",
+              "RelativeDocumentMoniker": "TestProject\\UserTests.cs",
+              "ToolTip": "C:\\SP\\TestFramework\\TestProject\\UserTests.cs",
+              "RelativeToolTip": "TestProject\\UserTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:05:07.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\SP\\TestFramework\\TestedProject\\Calculator.cs",
+              "RelativeDocumentMoniker": "TestedProject\\Calculator.cs",
+              "ToolTip": "C:\\SP\\TestFramework\\TestedProject\\Calculator.cs",
+              "RelativeToolTip": "TestedProject\\Calculator.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:05:04.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\SP\\TestFramework\\TestedProject\\User.cs",
+              "RelativeDocumentMoniker": "TestedProject\\User.cs",
+              "ToolTip": "C:\\SP\\TestFramework\\TestedProject\\User.cs",
+              "RelativeToolTip": "TestedProject\\User.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:05:02.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Attributes.cs",
+              "DocumentMoniker": "C:\\SP\\TestFramework\\TestLibrary\\Attributes.cs",
+              "RelativeDocumentMoniker": "TestLibrary\\Attributes.cs",
+              "ToolTip": "C:\\SP\\TestFramework\\TestLibrary\\Attributes.cs",
+              "RelativeToolTip": "TestLibrary\\Attributes.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:04:36.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Assert.cs",
+              "DocumentMoniker": "C:\\SP\\TestFramework\\TestLibrary\\Assert.cs",
+              "RelativeDocumentMoniker": "TestLibrary\\Assert.cs",
+              "ToolTip": "C:\\SP\\TestFramework\\TestLibrary\\Assert.cs",
+              "RelativeToolTip": "TestLibrary\\Assert.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:04:36.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exceptions.cs",
+              "DocumentMoniker": "C:\\SP\\TestFramework\\TestLibrary\\Exceptions.cs",
+              "RelativeDocumentMoniker": "TestLibrary\\Exceptions.cs",
+              "ToolTip": "C:\\SP\\TestFramework\\TestLibrary\\Exceptions.cs",
+              "RelativeToolTip": "TestLibrary\\Exceptions.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T11:57:08.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Runner.cs",
+              "DocumentMoniker": "C:\\SP\\TestFramework\\TestRunner\\Runner.cs",
+              "RelativeDocumentMoniker": "TestRunner\\Runner.cs",
+              "ToolTip": "C:\\SP\\TestFramework\\TestRunner\\Runner.cs",
+              "RelativeToolTip": "TestRunner\\Runner.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T11:53:10.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SP\\TestFramework\\TestRunner\\Program.cs",
+              "RelativeDocumentMoniker": "TestRunner\\Program.cs",
+              "ToolTip": "C:\\SP\\TestFramework\\TestRunner\\Program.cs",
+              "RelativeToolTip": "TestRunner\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T11:53:07.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

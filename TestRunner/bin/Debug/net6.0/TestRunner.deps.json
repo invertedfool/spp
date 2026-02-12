@@ -1,0 +1,71 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TestRunner/1.0.0": {
+        "dependencies": {
+          "TestLibrary": "1.0.0",
+          "TestProject": "1.0.0",
+          "TestedProject": "1.0.0"
+        },
+        "runtime": {
+          "TestRunner.dll": {}
+        }
+      },
+      "TestedProject/1.0.0": {
+        "runtime": {
+          "TestedProject.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "TestLibrary/1.0.0": {
+        "runtime": {
+          "TestLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "TestProject/1.0.0": {
+        "dependencies": {
+          "TestLibrary": "1.0.0",
+          "TestedProject": "1.0.0"
+        },
+        "runtime": {
+          "TestProject.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestRunner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestedProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

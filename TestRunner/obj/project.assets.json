@@ -1,0 +1,139 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "TestedProject/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TestedProject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TestedProject.dll": {}
+        }
+      },
+      "TestLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TestLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TestLibrary.dll": {}
+        }
+      },
+      "TestProject/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "TestLibrary": "1.0.0",
+          "TestedProject": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TestProject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TestProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestedProject/1.0.0": {
+      "type": "project",
+      "path": "../TestedProject/TestedProject.csproj",
+      "msbuildProject": "../TestedProject/TestedProject.csproj"
+    },
+    "TestLibrary/1.0.0": {
+      "type": "project",
+      "path": "../TestLibrary/TestLibrary.csproj",
+      "msbuildProject": "../TestLibrary/TestLibrary.csproj"
+    },
+    "TestProject/1.0.0": {
+      "type": "project",
+      "path": "../TestProject/TestProject.csproj",
+      "msbuildProject": "../TestProject/TestProject.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "TestLibrary >= 1.0.0",
+      "TestProject >= 1.0.0",
+      "TestedProject >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\fool\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\SP\\TestFramework\\TestRunner\\TestRunner.csproj",
+      "projectName": "TestRunner",
+      "projectPath": "C:\\SP\\TestFramework\\TestRunner\\TestRunner.csproj",
+      "packagesPath": "C:\\Users\\fool\\.nuget\\packages\\",
+      "outputPath": "C:\\SP\\TestFramework\\TestRunner\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\fool\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\SP\\TestFramework\\TestedProject\\TestedProject.csproj": {
+              "projectPath": "C:\\SP\\TestFramework\\TestedProject\\TestedProject.csproj"
+            },
+            "C:\\SP\\TestFramework\\TestLibrary\\TestLibrary.csproj": {
+              "projectPath": "C:\\SP\\TestFramework\\TestLibrary\\TestLibrary.csproj"
+            },
+            "C:\\SP\\TestFramework\\TestProject\\TestProject.csproj": {
+              "projectPath": "C:\\SP\\TestFramework\\TestProject\\TestProject.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
